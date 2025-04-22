@@ -1,12 +1,10 @@
-
-import Button from './Button';
-import ProfilePicture from './ProfilePicture';
+import Counter from './Counter';
 
 function App() {
  
   return ( 
     <>
-      <ProfilePicture />
+      <Counter />
     </>
   );
 }
